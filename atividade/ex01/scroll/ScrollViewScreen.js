@@ -15,6 +15,6 @@ export default function ScrollViewScreen() {
 
 const styles = StyleSheet.create({
   container: { flex: 1, padding: 10, backgroundColor: '#f5f5f5' },
-  item: { padding: 20, marginVertical: 5, backgroundColor: '#4A90E2', borderRadius: 8 },
+  item: { padding: 20, marginVertical: 5, backgroundColor: '#797e7a', borderRadius: 8 },
   text: { color: '#fff', fontSize: 16, textAlign: 'center' },
 });

@@ -33,7 +33,7 @@ export default function SectionListScreen() {
 
 const styles = StyleSheet.create({
   container: { padding: 10, backgroundColor: '#f5f5f5' },
-  header: { backgroundColor: '#FF9800', padding: 10, marginTop: 10, borderRadius: 8 },
+  header: { backgroundColor: '#797e7a', padding: 10, marginTop: 10, borderRadius: 8 },
   headerText: { fontSize: 18, fontWeight: 'bold', color: '#fff' },
   item: { backgroundColor: '#fff', padding: 15, marginVertical: 3, borderRadius: 5, elevation: 1 },
   itemText: { fontSize: 16, color: '#333' },
