@@ -61,7 +61,7 @@ const styles = StyleSheet.create({
   header: { fontSize: 22, fontWeight: 'bold', padding: 16, backgroundColor: '#2196F3', color: '#fff', textAlign: 'center' },
   listContent: { padding: 10 },
   card: { backgroundColor: '#fff', borderRadius: 10, padding: 15, marginBottom: 10, elevation: 3 },
-  carName: { fontSize: 18, fontWeight: 'bold', color: '#2196F3', marginBottom: 5 },
+  carName: { fontSize: 18, fontWeight: 'bold', color: '#000000', marginBottom: 5 },
   client: { fontSize: 16, color: '#333', marginBottom: 3 },
   value: { fontSize: 15, color: '#4CAF50', fontWeight: '600', marginBottom: 3 },
   date: { fontSize: 14, color: '#666' },
